@@ -1,4 +1,4 @@
-# Hotel Management System (Python)
+# Hotel Management System
 
 ## Table of Contents
 - [Introduction](#Introduction)
